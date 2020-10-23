@@ -1,0 +1,262 @@
+Aiseau-Presles; Aiseau-Presles; Commune; Province de Hainaut
+Amay; Amay; Commune; Province de Liège
+Amblève; Amel; Commune à facilités; Province de Liège
+Andenne; Andenne; Ville; Province de Namur
+Anderlues; Anderlues; Commune; Province de Hainaut
+Anhée; Anhée; Commune; Province de Namur
+Ans; Ans; Commune; Province de Liège
+Anthisnes; Anthisnes; Commune; Province de Liège
+Antoing; Antoing; Ville; Province de Hainaut
+Arlon; Aarlen; Ville; Province de Luxembourg
+Assesse; Assesse; Commune; Province de Namur
+Ath; Aat; Ville; Province de Hainaut
+Attert; Attert; Commune; Province de Luxembourg
+Aubange; Aubange; Ville[2],[3]; Province de Luxembourg
+Aubel; Aubel; Commune; Province de Liège
+Awans; Awans; Commune; Province de Liège
+Aywaille; Aywaille; Commune; Province de Liège
+Baelen; Baelen; Commune à facilités; Province de Liège
+Bassenge; Bitsingen; Commune; Province de Liège
+Bastogne; Bastenaken; Ville; Province de Luxembourg
+Beaumont; Beaumont; Ville; Province de Hainaut
+Beauraing; Beauraing; Ville; Province de Namur
+Beauvechain; Bevekom; Commune; Province du Brabant wallon
+Belœil; Belœil; Commune; Province de Hainaut
+Berloz; Berloz; Commune; Province de Liège
+Bernissart; Bernissart; Commune; Province de Hainaut
+Bertogne; Bertogne; Commune; Province de Luxembourg
+Bertrix; Bertrix; Commune; Province de Luxembourg
+Beyne-Heusay; Beyne-Heusay; Commune; Province de Liège
+Bièvre; Bièvre; Commune; Province de Namur
+Binche; Binche; Ville; Province de Hainaut
+Blegny; Blegny; Commune; Province de Liège
+Bouillon; Bouillon; Ville; Province de Luxembourg
+Boussu; Boussu; Commune; Province de Hainaut
+Braine-l'Alleud; Eigenbrakel; Commune; Province du Brabant wallon
+Braine-le-Château; Kasteelbrakel; Commune; Province du Brabant wallon
+Braine-le-Comte; 's-Gravenbrakel; Ville; Province de Hainaut
+Braives; Braives; Commune; Province de Liège
+Brugelette; Brugelette; Commune; Province de Hainaut
+Brunehaut; Brunehaut; Commune; Province de Hainaut
+Bullange; Büllingen; Commune à facilités; Province de Liège
+Burdinne; Burdinne; Commune; Province de Liège
+Burg-Reuland; Burg-Reuland; Commune à facilités; Province de Liège
+Butgenbach; Bütgenbach; Commune à facilités; Province de Liège
+Celles; Celles; Commune; Province de Hainaut
+Cerfontaine; Cerfontaine; Commune; Province de Namur
+Chapelle-lez-Herlaimont; Chapelle-lez-Herlaimont; Commune; Province de Hainaut
+Charleroi; Charleroi; Ville; Province de Hainaut
+Chastre; Chastre; Commune; Province du Brabant wallon
+Châtelet; Châtelet; Ville; Province de Hainaut
+Chaudfontaine; Chaudfontaine; Commune; Province de Liège
+Chaumont-Gistoux; Chaumont-Gistoux; Commune; Province du Brabant wallon
+Chièvres; Chièvres; Ville; Province de Hainaut
+Chimay; Chimay; Ville; Province de Hainaut
+Chiny; Chiny; Ville; Province de Luxembourg
+Ciney; Ciney; Ville; Province de Namur
+Clavier; Clavier; Commune; Province de Liège
+Colfontaine; Colfontaine; Commune; Province de Hainaut
+Comblain-au-Pont; Comblain-au-Pont; Commune; Province de Liège
+Comines-Warneton; Komen-Waasten; Ville et Commune à facilités; Province de Hainaut
+Courcelles; Courcelles; Commune; Province de Hainaut
+Court-Saint-Étienne; Court-Saint-Etienne; Commune; Province du Brabant wallon
+Couvin; Couvin; Ville; Province de Namur
+Crisnée; Crisnée; Commune; Province de Liège
+Dalhem; Dalhem; Commune; Province de Liège
+Daverdisse; Daverdisse; Commune; Province de Luxembourg
+Dinant; Dinant; Ville; Province de Namur
+Dison; Dison; Commune; Province de Liège
+Doische; Doische; Commune; Province de Namur
+Donceel; Donceel; Commune; Province de Liège
+Dour; Dour; Commune; Province de Hainaut
+Durbuy; Durbuy; Ville; Province de Luxembourg
+Écaussinnes; Écaussinnes; Commune; Province de Hainaut
+Éghezée; Éghezée; Commune; Province de Namur
+Ellezelles; Elzele; Commune; Province de Hainaut
+Enghien; Edingen; Ville et Commune à facilités; Province de Hainaut
+Engis; Engis; Commune; Province de Liège
+Érezée; Érezée; Commune; Province de Luxembourg
+Erquelinnes; Erquelinnes; Commune; Province de Hainaut
+Esneux; Esneux; Commune; Province de Liège
+Estaimpuis; Steenput; Commune; Province de Hainaut
+Estinnes; Estinnes; Commune; Province de Hainaut
+Étalle; Étalle; Commune; Province de Luxembourg
+Eupen; Eupen; Ville et Commune à facilités; Province de Liège
+Faimes; Faimes; Commune; Province de Liège
+Farciennes; Farciennes; Commune; Province de Hainaut
+Fauvillers; Fauvillers; Commune; Province de Luxembourg
+Fernelmont; Fernelmont; Commune; Province de Namur
+Ferrières; Ferrières; Commune; Province de Liège
+Fexhe-le-Haut-Clocher; Fexhe-le-Haut-Clocher; Commune; Province de Liège
+Flémalle; Flémalle; Commune; Province de Liège
+Fléron; Fléron; Commune; Province de Liège
+Fleurus; Fleurus; Ville; Province de Hainaut
+Flobecq; Vloesberg; Commune à facilités; Province de Hainaut
+Floreffe; Floreffe; Commune; Province de Namur
+Florennes; Florennes; Commune; Province de Namur
+Florenville; Florenville; Ville; Province de Luxembourg
+Fontaine-l'Évêque; Fontaine-l'Evêque; Ville; Province de Hainaut
+Fosses-la-Ville; Fosses-la-Ville; Ville; Province de Namur
+Frameries; Frameries; Commune; Province de Hainaut
+Frasnes-lez-Anvaing; Frasnes-lez-Anvaing; Commune; Province de Hainaut
+Froidchapelle; Froidchapelle; Commune; Province de Hainaut
+Gedinne; Gedinne; Commune; Province de Namur
+Geer; Geer; Commune; Province de Liège
+Gembloux; Gembloers; Commune; Province de Namur
+Genappe; Genepiën; Ville; Province du Brabant wallon
+Gerpinnes; Gerpinnes; Commune; Province de Hainaut
+Gesves; Gesves; Commune; Province de Namur
+Gouvy; Gouvy; Commune; Province de Luxembourg
+Grâce-Hollogne; Grâce-Hollogne; Commune; Province de Liège
+Grez-Doiceau; Graven; Commune; Province du Brabant wallon
+Habay; Habay; Commune; Province de Luxembourg
+Ham-sur-Heure-Nalinnes; Ham-sur-Heure-Nalinnes; Commune; Province de Hainaut
+Hamoir; Hamoir; Commune; Province de Liège
+Hamois; Hamois; Commune; Province de Namur
+Hannut; Hannuit; Ville; Province de Liège
+Hastière; Hastière; Commune; Province de Namur
+Havelange; Havelange; Commune; Province de Namur
+Hélécine; Heylissem[4] (Parfois écrit Heilissem[5]); Commune; Province du Brabant wallon
+Hensies; Hensies; Commune; Province de Hainaut
+Herbeumont; Herbeumont; Commune; Province de Luxembourg
+Héron; Héron; Commune; Province de Liège
+Herstal; Herstal; Ville[6]; Province de Liège
+Herve; Herve; Ville; Province de Liège
+Honnelles; Honnelles; Commune; Province de Hainaut
+Hotton; Hotton; Commune; Province de Luxembourg
+Houffalize; Houffalize; Ville; Province de Luxembourg
+Houyet; Houyet; Commune; Province de Namur
+Huy; Hoei; Ville; Province de Liège
+Incourt; Incourt; Commune; Province du Brabant wallon
+Ittre; Itter; Commune; Province du Brabant wallon
+Jalhay; Jalhay; Commune; Province de Liège
+Jemeppe-sur-Sambre; Jemeppe-sur-Sambre; Commune; Province de Namur
+Jodoigne; Geldenaken; Ville; Province du Brabant wallon
+Juprelle; Juprelle; Commune; Province de Liège
+Jurbise; Jurbeke; Commune; Province de Hainaut
+La Bruyère; La Bruyère; Commune; Province de Namur
+La Calamine; Kelmis; Commune à facilités; Province de Liège
+La Hulpe; Terhulpen; Commune; Province du Brabant wallon
+La Roche-en-Ardenne; La Roche-en-Ardenne; Ville; Province de Luxembourg
+Lasne; Lasne; Commune; Province du Brabant wallon
+Léglise; Léglise; Commune; Province de Luxembourg
+Lens; Lens; Commune; Province de Hainaut
+Le Rœulx; Le Rœulx; Ville; Province de Hainaut
+Les Bons Villers; Les Bons Villers; Commune; Province de Hainaut
+Lessines; Lessen; Ville; Province de Hainaut
+Leuze-en-Hainaut; Leuze-en-Hainaut; Ville; Province de Hainaut
+Libin; Libin; Commune; Province de Luxembourg
+Libramont-Chevigny; Libramont-Chevigny; Commune; Province de Luxembourg
+Liège; Luik; Ville; Province de Liège
+Lierneux; Lierneux; Commune; Province de Liège
+Limbourg; Limburg; Ville; Province de Liège
+Lincent; Lijsem; Commune; Province de Liège
+Lobbes; Lobbes; Commune; Province de Hainaut
+Lontzen; Lontzen; Commune à facilités; Province de Liège
+La Louvière; La Louvière; Ville; Province de Hainaut
+Malmedy; Malmedy; Ville et Commune à facilités; Province de Liège
+Manage; Manage; Commune; Province de Hainaut
+Manhay; Manhay; Commune; Province de Luxembourg
+Marche-en-Famenne; Marche-en-Famenne; Ville; Province de Luxembourg
+Marchin; Marchin; Commune; Province de Liège
+Martelange; Martelange; Commune; Province de Luxembourg
+Meix-devant-Virton; Meix-devant-Virton; Commune; Province de Luxembourg
+Merbes-le-Château; Merbes-le-Château; Commune; Province de Hainaut
+Messancy; Messancy; Commune; Province de Luxembourg
+Mettet; Mettet; Commune; Province de Namur
+Modave; Modave; Commune; Province de Liège
+Momignies; Momignies; Commune; Province de Hainaut
+Mons; Bergen; Ville; Province de Hainaut
+Mont-de-l'Enclus; Mont-de-l'Enclus; Commune; Province de Hainaut
+Montigny-le-Tilleul; Montigny-le-Tilleul; Commune; Province de Hainaut
+Mont-Saint-Guibert; Mont-Saint-Guibert; Commune; Province du Brabant wallon
+Morlanwelz; Morlanwelz; Commune; Province de Hainaut
+Mouscron; Moeskroen; Ville et Commune à facilités; Province de Hainaut
+Musson; Musson; Commune; Province de Luxembourg
+Namur; Namen; Ville; Province de Namur
+Nandrin; Nandrin; Commune; Province de Liège
+Nassogne; Nassogne; Commune; Province de Luxembourg
+Neufchâteau; Neufchâteau; Ville; Province de Luxembourg
+Neupré; Neupré; Commune; Province de Liège
+Nivelles; Nijvel; Ville; Province du Brabant wallon
+Ohey; Ohey; Commune; Province de Namur
+Olne; Olne; Commune; Province de Liège
+Onhaye; Onhaye; Commune; Province de Namur
+Oreye; Oerle; Commune; Province de Liège
+Orp-Jauche; Orp-Jauche; Commune; Province du Brabant wallon
+Ottignies-Louvain-la-Neuve; Ottignies-Louvain-la-Neuve; Ville; Province du Brabant wallon
+Ouffet; Ouffet; Commune; Province de Liège
+Oupeye; Oupeye; Commune; Province de Liège
+Paliseul; Paliseul; Commune; Province de Luxembourg
+Pecq; Pecq; Commune; Province de Hainaut
+Pepinster; Pepinster; Commune; Province de Liège
+Péruwelz; Péruwelz; Ville; Province de Hainaut
+Perwez; Perwijs; Commune; Province du Brabant wallon
+Philippeville; Philippeville; Ville; Province de Namur
+Plombières; Blieberg; Commune à facilités; Province de Liège
+Pont-à-Celles; Pont-à-Celles; Commune; Province de Hainaut
+Profondeville; Profondeville; Commune; Province de Namur
+Quaregnon; Quaregnon; Commune; Province de Hainaut
+Quévy; Quévy; Commune; Province de Hainaut
+Quiévrain; Quiévrain; Commune; Province de Hainaut
+Raeren; Raeren; Commune à facilités; Province de Liège
+Ramillies; Ramillies; Commune; Province du Brabant wallon
+Rebecq; Rebecq; Commune; Province du Brabant wallon
+Remicourt; Remicourt; Commune; Province de Liège
+Rendeux; Rendeux; Commune; Province de Luxembourg
+Rixensart; Rixensart; Commune; Province du Brabant wallon
+Rochefort; Rochefort; Ville; Province de Namur
+Rouvroy; Rouvroy; Commune; Province de Luxembourg
+Rumes; Rumes; Commune; Province de Hainaut
+Sainte-Ode; Sainte-Ode; Commune; Province de Luxembourg
+Saint-Georges-sur-Meuse; Saint-Georges-sur-Meuse; Commune; Province de Liège
+Saint-Ghislain; Saint-Ghislain; Ville; Province de Hainaut
+Saint-Hubert; Saint-Hubert; Ville; Province de Luxembourg
+Saint-Léger; Saint-Léger; Commune; Province de Luxembourg
+Saint-Nicolas; Saint-Nicolas; Commune; Province de Liège
+Saint-Vith; Sankt Vith; Ville et Commune à facilités; Province de Liège
+Sambreville; Sambreville; Commune; Province de Namur
+Seneffe; Seneffe; Commune; Province de Hainaut
+Seraing; Seraing; Ville; Province de Liège
+Silly; Opzullik; Commune; Province de Hainaut
+Sivry-Rance; Sivry-Rance; Commune; Province de Hainaut
+Soignies; Zinnik; Ville; Province de Hainaut
+Sombreffe; Sombreffe; Commune; Province de Namur
+Somme-Leuze; Somme-Leuze; Commune; Province de Namur
+Soumagne; Soumagne; Commune; Province de Liège
+Spa; Spa; Commune; Province de Liège
+Sprimont; Sprimont; Commune; Province de Liège
+Stavelot; Stavelot; Ville; Province de Liège
+Stoumont; Stoumont; Commune; Province de Liège
+Tellin; Tellin; Commune; Province de Luxembourg
+Tenneville; Tenneville; Commune; Province de Luxembourg
+Theux; Theux; Commune; Province de Liège
+Thimister-Clermont; Thimister-Clermont; Commune; Province de Liège
+Thuin; Thuin; Ville; Province de Hainaut
+Tinlot; Tinlot; Commune; Province de Liège
+Tintigny; Tintigny; Commune; Province de Luxembourg
+Tournai; Doornik; Ville; Province de Hainaut
+Trois-Ponts; Trois-Ponts; Commune; Province de Liège
+Trooz; Trooz; Commune; Province de Liège
+Tubize; Tubeke; Ville[7],[8]; Province du Brabant wallon
+Vaux-sur-Sûre; Vaux-sur-Sûre; Commune; Province de Luxembourg
+Verlaine; Verlaine; Commune; Province de Liège
+Verviers; Verviers; Ville; Province de Liège
+Vielsalm; Vielsalm; Commune; Province de Luxembourg
+Villers-le-Bouillet; Villers-le-Bouillet; Commune; Province de Liège
+Villers-la-Ville; Villers-la-Ville; Commune; Province du Brabant wallon
+Viroinval; Viroinval; Commune; Province de Namur
+Virton; Virton; Ville; Province de Luxembourg
+Visé; Wezet; Ville; Province de Liège
+Vresse-sur-Semois; Vresse-sur-Semois; Commune; Province de Namur
+Waimes; Weismes; Commune à facilités; Province de Liège
+Walcourt; Walcourt; Ville; Province de Namur
+Walhain; Walhain; Commune; Province du Brabant wallon
+Wanze; Wanze; Commune; Province de Liège
+Waremme; Borgworm; Ville; Province de Liège
+Wasseiges; Wasseiges; Commune; Province de Liège
+Waterloo; Waterloo; Commune; Province du Brabant wallon
+Wavre; Waver; Ville; Province du Brabant wallon
+Welkenraedt; Welkenraedt; Commune à facilités; Province de Liège
+Wellin; Wellin; Commune; Province de Luxembourg
+Yvoir; Yvoir; Commune; Province de Namur

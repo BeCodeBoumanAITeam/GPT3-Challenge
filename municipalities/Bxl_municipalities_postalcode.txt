@@ -1,0 +1,19 @@
+Anderlecht; Anderlecht; 1070
+Auderghem; Oudergem; 1160
+Berchem-Sainte-Agathe; Sint-Agatha-Berchem; 1082
+Bruxelles-Ville*; Stad Brussel*; 1000102011201130
+Etterbeek; Etterbeek; 1040
+Evere; Evere; 1140
+Forest; Vorst; 1190
+Ganshoren; Ganshoren; 1083
+Ixelles; Elsene; 1050
+Jette; Jette; 1090
+Koekelberg; Koekelberg; 1081
+Molenbeek-Saint-Jean; Sint-Jans-Molenbeek; 1080
+Saint-Gilles; Sint-Gillis; 1060
+Saint-Josse-ten-Noode; Sint-Joost-ten-Node; 1210
+Schaerbeek; Schaarbeek; 1030
+Uccle; Ukkel; 1180
+Watermael-Boitsfort; Watermaal-Bosvoorde; 1170
+Woluwe-Saint-Lambert; Sint-Lambrechts-Woluwe; 1200
+Woluwe-Saint-Pierre; Sint-Pieters-Woluwe; 1150

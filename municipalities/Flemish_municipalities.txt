@@ -1,0 +1,300 @@
+Aalter; Aalter; Commune; Province de Flandre-Orientale
+Aerschot; Aarschot; Ville; Province du Brabant flamand
+Aartselaar; Aartselaar; Commune; Province d'Anvers
+Affligem; Affligem; Commune; Province du Brabant flamand
+Alken; Alken; Commune; Province de Limbourg
+Alost; Aalst; Ville; Province de Flandre-Orientale
+Alveringem; Alveringem; Commune; Province de Flandre-Occidentale
+Anvers; Antwerpen; Ville; Province d'Anvers
+Anzegem; Anzegem; Commune; Province de Flandre-Occidentale
+Ardoye; Ardooie; Commune; Province de Flandre-Occidentale
+Arendonk; Arendonk; Commune; Province d'Anvers
+As; As; Commune; Province de Limbourg
+Asse; Asse; Commune; Province du Brabant flamand
+Assenede; Assenede; Commune; Province de Flandre-Orientale
+Audenarde; Oudenaarde; Ville; Province de Flandre-Orientale
+Avelgem; Avelgem; Commune; Province de Flandre-Occidentale
+Baerle-Duc; Baarle-Hertog; Commune; Province d'Anvers
+Balen; Balen; Commune; Province d'Anvers
+Beernem; Beernem; Commune; Province de Flandre-Occidentale
+Beerse; Beerse; Commune; Province d'Anvers
+Beersel; Beersel; Commune; Province du Brabant flamand
+Begijnendijk; Begijnendijk; Commune; Province du Brabant flamand
+Bekkevoort; Bekkevoort; Commune; Province du Brabant flamand
+Béringue; Beringen; Ville; Province de Limbourg
+Berlaar; Berlaar; Commune; Province d'Anvers
+Berlare; Berlare; Commune; Province de Flandre-Orientale
+Bertem; Bertem; Commune; Province du Brabant flamand
+Beveren; Beveren; Commune; Province de Flandre-Orientale
+Bierbeek; Bierbeek; Commune; Province du Brabant flamand
+Biévène; Bever; Commune à facilités; Province du Brabant flamand
+Bilzen; Bilzen; Ville; Province de Limbourg
+Blankenberghe; Blankenberge; Ville; Province de Flandre-Occidentale
+Bocholt; Bocholt; Commune; Province de Limbourg
+Boechout; Boechout; Commune; Province d'Anvers
+Bonheiden; Bonheiden; Commune; Province d'Anvers
+Boom; Boom; Commune; Province d'Anvers
+Boortmeerbeek; Boortmeerbeek; Commune; Province du Brabant flamand
+Looz; Borgloon; Ville; Province de Limbourg
+Bornem; Bornem; Commune; Province d'Anvers
+Borsbeek; Borsbeek; Commune; Province d'Anvers
+Bourg-Léopold; Leopoldsburg; Commune; Province de Limbourg
+Boutersem; Boutersem; Commune; Province du Brabant flamand
+Brakel; Brakel; Commune; Province de Flandre-Orientale
+Brasschaat; Brasschaat; Commune; Province d'Anvers
+Brecht; Brecht; Commune; Province d'Anvers
+Bredene; Bredene; Commune; Province de Flandre-Occidentale
+Brée; Bree; Ville; Province de Limbourg
+Bruges; Brugge; Ville; Province de Flandre-Occidentale
+Buggenhout; Buggenhout; Commune; Province de Flandre-Orientale
+Calmpthout; Kalmthout; Commune; Province d'Anvers
+Le Coq; De Haan; Commune; Province de Flandre-Occidentale
+Cortenbergh; Kortenberg; Commune; Province du Brabant flamand
+Courtrai; Kortrijk; Ville; Province de Flandre-Occidentale
+Coxyde; Koksijde; Commune; Province de Flandre-Occidentale
+Crainhem; Kraainem; Commune à facilités; Province du Brabant flamand
+Damme; Damme; Ville; Province de Flandre-Occidentale
+La Pinte; De Pinte; Commune; Province de Flandre-Orientale
+Deerlijk; Deerlijk; Commune; Province de Flandre-Occidentale
+Deinze; Deinze; Ville; Province de Flandre-Orientale
+Denderleeuw; Denderleeuw; Commune; Province de Flandre-Orientale
+Dentergem; Dentergem; Commune; Province de Flandre-Occidentale
+Dessel; Dessel; Commune; Province d'Anvers
+Destelbergen; Destelbergen; Commune; Province de Flandre-Orientale
+Diepenbeek; Diepenbeek; Commune; Province de Limbourg
+Diest; Diest; Ville; Province du Brabant flamand
+Dilbeek; Dilbeek; Commune; Province du Brabant flamand
+Dilsen-Stokkem; Dilsen-Stokkem; Ville; Province de Limbourg
+Dixmude; Diksmuide; Ville; Province de Flandre-Occidentale
+Drogenbos; Drogenbos; Commune à facilités; Province du Brabant flamand
+Duffel; Duffel; Commune; Province d'Anvers
+Edegem; Edegem; Commune; Province d'Anvers
+Eeklo; Eeklo; Ville; Province de Flandre-Orientale
+Erpe-Mere; Erpe-Mere; Commune; Province de Flandre-Orientale
+Espierres-Helchin; Spiere-Helkijn; Commune à facilités; Province de Flandre-Occidentale
+Essen; Essen; Commune; Province d'Anvers
+Everghem; Evergem; Commune; Province de Flandre-Orientale
+Fourons; Voeren; Commune à facilités; Province de Limbourg
+Furnes; Veurne; Ville; Province de Flandre-Occidentale
+Gammerages; Galmaarden; Commune; Province du Brabant flamand
+Gand; Gent; Ville; Province de Flandre-Orientale
+Gavre; Gavere; Commune; Province de Flandre-Orientale
+Geel; Geel; Ville; Province d'Anvers
+Geetbets; Geetbets; Commune; Province du Brabant flamand
+Genk; Genk; Ville; Province de Limbourg
+Gingelom; Gingelom; Commune; Province de Limbourg
+Gistel; Gistel; Ville; Province de Flandre-Occidentale
+Glabbeek; Glabbeek; Commune; Province du Brabant flamand
+Gooik; Gooik; Commune; Province du Brabant flamand
+Grammont; Geraardsbergen; Ville; Province de Flandre-Orientale
+Grimbergen; Grimbergen; Commune; Province du Brabant flamand
+Grobbendonk; Grobbendonk; Commune; Province d'Anvers
+Haecht; Haacht; Commune; Province du Brabant flamand
+Haaltert; Haaltert; Commune; Province de Flandre-Orientale
+Hal; Halle; Ville; Province du Brabant flamand
+Halen; Halen; Ville; Province de Limbourg
+Ham; Ham; Commune; Province de Limbourg
+Hamme; Hamme; Commune; Province de Flandre-Orientale
+Hamont-Achel; Hamont-Achel; Ville; Province de Limbourg
+Harelbeke; Harelbeke; Ville; Province de Flandre-Occidentale
+Hasselt; Hasselt; Ville; Province de Limbourg
+Hautem-Saint-Liévin; Sint-Lievens-Houtem; Commune; Province de Flandre-Orientale
+Hechtel-Eksel; Hechtel-Eksel; Commune; Province de Limbourg
+Heers; Heers; Commune; Province de Limbourg
+Heist-sur-la-Montagne; Heist-op-den-Berg; Commune; Province d'Anvers
+Hemiksem; Hemiksem; Commune; Province d'Anvers
+Herck-la-Ville; Herk-de-Stad; Ville; Province de Limbourg
+Herent; Herent; Commune; Province du Brabant flamand
+Herentals; Herentals; Ville; Province d'Anvers
+Herenthout; Herenthout; Commune; Province d'Anvers
+Hérinnes; Herne; Commune; Province du Brabant flamand
+Herselt; Herselt; Commune; Province d'Anvers
+Herstappe; Herstappe; Commune à facilités; Province de Limbourg
+Herzele; Herzele; Commune; Province de Flandre-Orientale
+Heusden-Zolder; Heusden-Zolder; Commune; Province de Limbourg
+Heuvelland; Heuvelland; Commune; Province de Flandre-Occidentale
+Hoegaarden; Hoegaarden; Commune; Province du Brabant flamand
+Hoeilaert; Hoeilaart; Commune; Province du Brabant flamand
+Hoeselt; Hoeselt; Commune; Province de Limbourg
+Holsbeek; Holsbeek; Commune; Province du Brabant flamand
+Hooglede; Hooglede; Commune; Province de Flandre-Occidentale
+Hoogstraten; Hoogstraten; Ville; Province d'Anvers
+Horebeke; Horebeke; Commune; Province de Flandre-Orientale
+Houthalen-Helchteren; Houthalen-Helchteren; Commune; Province de Limbourg
+Houthulst; Houthulst; Commune; Province de Flandre-Occidentale
+Hove; Hove; Commune; Province d'Anvers
+Huldenberg; Huldenberg; Commune; Province du Brabant flamand
+Hulshout; Hulshout; Commune; Province d'Anvers
+Ichtegem; Ichtegem; Commune; Province de Flandre-Occidentale
+Ingelmunster; Ingelmunster; Commune; Province de Flandre-Occidentale
+Iseghem; Izegem; Ville; Province de Flandre-Occidentale
+Jabbeke; Jabbeke; Commune; Province de Flandre-Occidentale
+Kampenhout; Kampenhout; Commune; Province du Brabant flamand
+Kapellen; Kapellen; Commune; Province d'Anvers
+Kapelle-op-den-Bos; Kapelle-op-den-Bos; Commune; Province du Brabant flamand
+Kaprijke; Kaprijke; Commune; Province de Flandre-Orientale
+Kasterlee; Kasterlee; Commune; Province d'Anvers
+Keerbergen; Keerbergen; Commune; Province du Brabant flamand
+Kinrooi; Kinrooi; Commune; Province de Limbourg
+Kluisbergen; Kluisbergen; Commune; Province de Flandre-Orientale
+Knokke-Heist; Knokke-Heist; Commune; Province de Flandre-Occidentale
+Koekelare; Koekelare; Commune; Province de Flandre-Occidentale
+Kontich; Kontich; Commune; Province d'Anvers
+Kortemark; Kortemark; Commune; Province de Flandre-Occidentale
+Kortenaken; Kortenaken; Commune; Province du Brabant flamand
+Kortessem; Kortessem; Commune; Province de Limbourg
+Kruibeke; Kruibeke; Commune; Province de Flandre-Orientale
+Kruisem; Kruisem; Commune; Province de Flandre-Orientale
+Kuurne; Kuurne; Commune; Province de Flandre-Occidentale
+Laakdal; Laakdal; Commune; Province d'Anvers
+Laerne; Laarne; Commune; Province de Flandre-Orientale
+Laethem-Saint-Martin; Sint-Martens-Latem; Commune; Province de Flandre-Orientale
+Lanaken; Lanaken; Commune; Province de Limbourg
+Landen; Landen; Ville; Province du Brabant flamand
+Langemark-Poelkapelle; Langemark-Poelkapelle; Commune; Province de Flandre-Occidentale
+Léau; Zoutleeuw; Ville; Province du Brabant flamand
+Lebbeke; Lebbeke; Commune; Province de Flandre-Orientale
+Lede; Lede; Commune; Province de Flandre-Orientale
+Ledegem; Ledegem; Commune; Province de Flandre-Occidentale
+Leeuw-Saint-Pierre; Sint-Pieters-Leeuw; Commune; Province du Brabant flamand
+Lendelede; Lendelede; Commune; Province de Flandre-Occidentale
+Lennik; Lennik; Commune; Province du Brabant flamand
+Lichtervelde; Lichtervelde; Commune; Province de Flandre-Occidentale
+Liedekerke; Liedekerke; Commune; Province du Brabant flamand
+Lierde; Lierde; Commune; Province de Flandre-Orientale
+Lierre; Lier; Ville; Province d'Anvers
+Lievegem; Lievegem; Commune; Province de Flandre-Orientale
+Lille; Lille; Commune; Province d'Anvers
+Linkebeek; Linkebeek; Commune à facilités; Province du Brabant flamand
+Lint; Lint; Commune; Province d'Anvers
+Linter; Linter; Commune; Province du Brabant flamand
+Lochristi; Lochristi; Commune; Province de Flandre-Orientale
+Lokeren; Lokeren; Ville; Province de Flandre-Orientale
+Lommel; Lommel; Ville; Province de Limbourg
+Londerzeel; Londerzeel; Commune; Province du Brabant flamand
+Lo-Reninge; Lo-Reninge; Ville; Province de Flandre-Occidentale
+Louvain; Leuven; Ville; Province du Brabant flamand
+Lubbeek; Lubbeek; Commune; Province du Brabant flamand
+Lummen; Lummen; Commune; Province de Limbourg
+Markedal; Maarkedal; Commune; Province de Flandre-Orientale
+Maaseik; Maaseik; Ville; Province de Limbourg
+Maasmechelen; Maasmechelen; Commune; Province de Limbourg
+Machelen; Machelen; Commune; Province du Brabant flamand
+Maldegem; Maldegem; Commune; Province de Flandre-Orientale
+Malines; Mechelen; Ville; Province d'Anvers
+Malle; Malle; Commune; Province d'Anvers
+Meerhout; Meerhout; Commune; Province d'Anvers
+Meise; Meise; Commune; Province du Brabant flamand
+Melle; Melle; Commune; Province de Flandre-Orientale
+Menin; Menen; Ville; Province de Flandre-Occidentale
+Merchtem; Merchtem; Commune; Province du Brabant flamand
+Merelbeke; Merelbeke; Commune; Province de Flandre-Orientale
+Merksplas; Merksplas; Commune; Province d'Anvers
+Messines; Mesen; Ville; Province de Flandre-Occidentale
+Meulebeke; Meulebeke; Commune; Province de Flandre-Occidentale
+Middelkerke; Middelkerke; Commune; Province de Flandre-Occidentale
+Moerbeke; Moerbeke; Commune; Province de Flandre-Orientale
+Mol; Mol; Commune; Province d'Anvers
+Montaigu-Zichem; Scherpenheuvel-Zichem; Ville; Province du Brabant flamand
+Moorslede; Moorslede; Commune; Province de Flandre-Occidentale
+Mortsel; Mortsel; Ville; Province d'Anvers
+Nazareth; Nazareth; Commune; Province de Flandre-Orientale
+Niel; Niel; Commune; Province d'Anvers
+Nieuport; Nieuwpoort; Ville; Province de Flandre-Occidentale
+Nieuwerkerken; Nieuwerkerken; Commune; Province de Limbourg
+Nijlen; Nijlen; Commune; Province d'Anvers
+Ninove; Ninove; Ville; Province de Flandre-Orientale
+Olen; Olen; Commune; Province d'Anvers
+Oosterzele; Oosterzele; Commune; Province de Flandre-Orientale
+Oostkamp; Oostkamp; Commune; Province de Flandre-Occidentale
+Oostrozebeke; Oostrozebeke; Commune; Province de Flandre-Occidentale
+Opwijk; Opwijk; Commune; Province du Brabant flamand
+Ostende; Oostende; Ville; Province de Flandre-Occidentale
+Audembourg; Oudenburg; Ville; Province de Flandre-Occidentale
+Oud-Heverlee; Oud-Heverlee; Commune; Province du Brabant flamand
+Oudsbergen; Oudsbergen; Commune; Province de Limbourg
+Overijse; Overijse; Commune; Province du Brabant flamand
+La Panne; De Panne; Commune; Province de Flandre-Occidentale
+Peer; Peer; Ville; Province de Limbourg
+Pelt; Pelt; Commune; Province de Limbourg
+Pepingen; Pepingen; Commune; Province du Brabant flamand
+Pittem; Pittem; Commune; Province de Flandre-Occidentale
+Poperinge; Poperinge; Ville; Province de Flandre-Occidentale
+Putte; Putte; Commune; Province d'Anvers
+Puers-Saint-Amand; Puurs-Sint-Amands; Commune; Province d'Anvers
+Ranst; Ranst; Commune; Province d'Anvers
+Ravels; Ravels; Commune; Province d'Anvers
+Renaix; Ronse; Ville et commune à facilités; Province de Flandre-Orientale
+Rethy; Retie; Commune; Province d'Anvers
+Rhode-Saint-Genèse; Sint-Genesius-Rode; Commune à facilités; Province du Brabant flamand
+Riemst; Riemst; Commune; Province de Limbourg
+Rijkevorsel; Rijkevorsel; Commune; Province d'Anvers
+Roosdaal; Roosdaal; Commune; Province du Brabant flamand
+Rotselaar; Rotselaar; Commune; Province du Brabant flamand
+Roulers; Roeselare; Ville; Province de Flandre-Occidentale
+Ruiselede; Ruiselede; Commune; Province de Flandre-Occidentale
+Rumst; Rumst; Commune; Province d'Anvers
+Saint-Gilles-Waes; Sint-Gillis-Waas; Commune; Province de Flandre-Orientale
+Saint-Laurent; Sint-Laureins; Commune; Province de Flandre-Orientale
+Saint-Nicolas; Sint-Niklaas; Ville; Province de Flandre-Orientale
+Saint-Trond; Sint-Truiden; Ville; Province de Limbourg
+Schelle; Schelle; Commune; Province d'Anvers
+Schilde; Schilde; Commune; Province d'Anvers
+Schoten; Schoten; Commune; Province d'Anvers
+Stabroek; Stabroek; Commune; Province d'Anvers
+Staden; Staden; Commune; Province de Flandre-Occidentale
+Steenockerzeel; Steenokkerzeel; Commune; Province du Brabant flamand
+Stekene; Stekene; Commune; Province de Flandre-Orientale
+Tamise; Temse; Commune; Province de Flandre-Orientale
+Termonde; Dendermonde; Ville; Province de Flandre-Orientale
+Ternat; Ternat; Commune; Province du Brabant flamand
+Tervueren; Tervuren; Commune; Province du Brabant flamand
+Tessenderlo; Tessenderlo; Commune; Province de Limbourg
+Thourout; Torhout; Ville; Province de Flandre-Occidentale
+Tielt; Tielt; Ville; Province de Flandre-Occidentale
+Tielt-Winge; Tielt-Winge; Commune; Province du Brabant flamand
+Tirlemont; Tienen; Ville; Province du Brabant flamand
+Tongres; Tongeren; Ville; Province de Limbourg
+Tremelo; Tremelo; Commune; Province du Brabant flamand
+Turnhout; Turnhout; Ville; Province d'Anvers
+Vieux-Turnhout; Oud-Turnhout; Commune; Province d'Anvers
+Vilvorde; Vilvoorde; Ville; Province du Brabant flamand
+Vleteren; Vleteren; Commune; Province de Flandre-Occidentale
+Vorselaer; Vorselaar; Commune; Province d'Anvers
+Vosselaer; Vosselaar; Commune; Province d'Anvers
+Waesmunster; Waasmunster; Commune; Province de Flandre-Orientale
+Wachtebeke; Wachtebeke; Commune; Province de Flandre-Orientale
+Waregem; Waregem; Ville; Province de Flandre-Occidentale
+Wavre-Sainte-Catherine; Sint-Katelijne-Waver; Commune; Province d'Anvers
+Wellen; Wellen; Commune; Province de Limbourg
+Wemmel; Wemmel; Commune à facilités; Province du Brabant flamand
+Wervicq; Wervik; Ville; Province de Flandre-Occidentale
+Westerlo; Westerlo; Commune; Province d'Anvers
+Wetteren; Wetteren; Commune; Province de Flandre-Orientale
+Wevelgem; Wevelgem; Commune; Province de Flandre-Occidentale
+Wezembeek-Oppem; Wezembeek-Oppem; Commune à facilités; Province du Brabant flamand
+Wichelen; Wichelen; Commune; Province de Flandre-Orientale
+Wielsbeke; Wielsbeke; Commune; Province de Flandre-Occidentale
+Wijnegem; Wijnegem; Commune; Province d'Anvers
+Willebroek; Willebroek; Commune; Province d'Anvers
+Wingene; Wingene; Commune; Province de Flandre-Occidentale
+Wommelghem; Wommelgem; Commune; Province d'Anvers
+Wortegem-Petegem; Wortegem-Petegem; Commune; Province de Flandre-Orientale
+Wuustwezel; Wuustwezel; Commune; Province d'Anvers
+Ypres; Ieper; Ville; Province de Flandre-Occidentale
+Zandhoven; Zandhoven; Commune; Province d'Anvers
+Zaventem; Zaventem; Commune; Province du Brabant flamand
+Zedelgem; Zedelgem; Commune; Province de Flandre-Occidentale
+Zele; Zele; Commune; Province de Flandre-Orientale
+Zelzate; Zelzate; Commune; Province de Flandre-Orientale
+Zemst; Zemst; Commune; Province du Brabant flamand
+Zoersel; Zoersel; Commune; Province d'Anvers
+Zonhoven; Zonhoven; Commune; Province de Limbourg
+Zonnebeke; Zonnebeke; Commune; Province de Flandre-Occidentale
+Zottegem; Zottegem; Ville; Province de Flandre-Orientale
+Zuienkerke; Zuienkerke; Commune; Province de Flandre-Occidentale
+Zulte; Zulte; Commune; Province de Flandre-Orientale
+Zutendaal; Zutendaal; Commune; Province de Limbourg
+Zwalin[1]; Zwalm; Commune; Province de Flandre-Orientale
+Zwevegem; Zwevegem; Commune; Province de Flandre-Occidentale
+Zwijndrecht; Zwijndrecht; Commune; Province d'Anvers

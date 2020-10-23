@@ -1,0 +1,22 @@
+Anderlecht; Anderlecht; Commune
+Auderghem; Oudergem; Commune
+Berchem-Sainte-Agathe; Sint-Agatha-Berchem; Commune
+Ville de Bruxelles; Brussel (stad); Ville
+Etterbeek; Etterbeek; Commune
+Evere; Evere; Commune
+Forest; Vorst; Commune
+Ganshoren; Ganshoren; Commune
+Ixelles; Elsene; Commune
+Jette; Jette; Commune
+Koekelberg; Koekelberg; Commune
+Molenbeek-Saint-Jean; Sint-Jans-Molenbeek; Commune
+Saint-Gilles; Sint-Gillis; Commune
+Saint-Josse-ten-Noode; Sint-Joost-ten-Node; Commune
+Schaerbeek; Schaarbeek; Commune
+Uccle; Ukkel; Commune
+Watermael-Boitsfort; Watermaal-Bosvoorde; Commune
+Woluwe-Saint-Lambert; Sint-Lambrechts-Woluwe; Commune
+Woluwe-Saint-Pierre; Sint-Pieters-Woluwe; Commune
+Haren; Haren; Ville de Bruxelles
+Laeken; Laken; Ville de Bruxelles
+Neder-Over-Heembeek; Neder-Over-Heembeek; Ville de Bruxelles
