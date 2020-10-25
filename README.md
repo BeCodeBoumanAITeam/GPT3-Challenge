@@ -5,7 +5,7 @@ Data Visualization of ImmoWeb project Data Sets
 The real estate company "ImmoEliza" wants to create a machine learning model to predict prices on Belgium's sales. This repo contains all the files that were used in this project including the raw dataset, the cleaned dataset, .ipynb files containing the code for both cleaning and analysis/visualization, and a presentation containing the results of the analysis.
 
 
-# 1.1. The Team
+## 1.1. The Team
 This project was a collaborative effort between four members of the *Bouwman2* promotion at [BeCode](https://github.com/becodeorg), Brussels, in October 2020. The team comprised of [Davy Mariko](https://github.com/davymariko), [Manasa Devinoolu](https://github.com/manasanoolu7), [Sara Silvente](https://github.com/silventesa), and [Naomi Thiru](https://github.com/naomithiru)
 
 # 2. Contents
