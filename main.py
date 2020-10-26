@@ -5,10 +5,10 @@ from itertools import chain
 from IPython.display import Markdown, display
 from more_itertools import unique_everseen
 
-from davy_data_cleaning import *
-from manasa_data_cleaning import *
-from naomi_data_cleaning import *
-from sara_data_cleaning import *
+from src.davy_data_cleaning import *
+from src.manasa_data_cleaning import *
+from src.naomi_data_cleaning import *
+from src.sara_data_cleaning import *
 
 
 if __name__ == "__main__":
