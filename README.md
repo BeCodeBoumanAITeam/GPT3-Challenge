@@ -21,7 +21,7 @@ This is a collection of all the properties for sale from all the regions of Belg
 ## 2.1. Dataset
 
 The data was scraped from various Belgian real-estate websites by all the members of the Bowman2 Promotion of BeCode, in September 2020.
-The raw dataset had 93068 rows and 22 columns.
+The **raw dataset** had 93068 rows and 22 columns.
 
 The variables in this dataset are: 
 ```
@@ -74,6 +74,7 @@ The dataset had duplicated values, that were dropped.
 All blank spaces and special characters were replaced with an underscore.
 All the values in the dataset were set to lowercase.
 
+The **cleaned dataset** has 43342 rows and 24 columns.
 
 ## 2.2. Presentation
 
