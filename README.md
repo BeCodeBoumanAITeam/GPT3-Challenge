@@ -79,7 +79,7 @@ All the values in the dataset were set to lowercase.
 
 The presentation contains results of the data visualization and an interpretation of the analysis.
 
-## 2.3. Data Visualization
+### 2.2.1 Data Visualization
 Using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/), visualization on a clean dataset was done to observe the correlations between the variables and the target variable.
 
 ```
@@ -90,11 +90,13 @@ Using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata
 
 In order to conduct analysis on the real estate dataset, we identified the target variable as ‘Price’, and used this to determine it's correlations with the other variables in the dataset.  
 
-## 2.4. Interpretation
+### 2.4. Interpretation
 The interpretation of our results are clearly outlined in the presentation file.
 
 # 3. Challenges and Conclusions
 
-The dataset required a large amount of cleaning.
-Apart from null values, other unsuitable values were found in the dataset that were categorized as null for the sake of this analysis.
+The dataset required a large amount of cleaning. Apart from null values, other unsuitable values were found in the dataset that were categorized as null for the sake of this analysis.
+External data was integrated into the dataset to provide additional location information, such as 'city' and 'region'.
+
+Establishing the correct datatypes to ensure smooth workflow with the data was also identified as a challenge. Working with NaN values with visualization libraries needed to be handled as well. 
 
