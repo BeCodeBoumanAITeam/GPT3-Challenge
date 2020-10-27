@@ -67,7 +67,7 @@ All false values were replaced with the value ‘0’
 
 <ins> *Duplicates* </ins>
 
-The dataset had __% of duplicated values, that were dropped.
+The dataset had duplicated values, that were dropped.
 
 <ins> *Blank spaces and special characters* </ins>
 
