@@ -90,8 +90,9 @@ Using [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata
 
 In order to conduct analysis on the real estate dataset, we identified the target variable as ‘Price’, and used this to determine it's correlations with the other variables in the dataset.  
 
-### 2.4. Interpretation
+### 2.2.2 Interpretation
 The interpretation of our results are clearly outlined in the presentation file.
+
 
 # 3. Challenges and Conclusions
 
